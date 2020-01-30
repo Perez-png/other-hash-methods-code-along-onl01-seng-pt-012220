@@ -18,6 +18,7 @@ def get_the_keys(groceries)
  groceries.get_the_keys
  
  groceries.values 
- #> [[]
+ #> [[milk", "yogurt", "cheese"], ["carrots", "broccoli", "cucumbers"], ["chicken", "steak", "salmon"], ["rice", "pasta"]]
+ 
 end
 end
