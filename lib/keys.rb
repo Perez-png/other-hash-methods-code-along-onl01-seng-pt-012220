@@ -17,5 +17,7 @@ def get_the_keys(groceries)
 }
  groceries.get_the_keys
  
+ groceries.values 
+ #> [[]
 end
 end
