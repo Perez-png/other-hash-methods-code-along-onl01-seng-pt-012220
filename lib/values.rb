@@ -23,3 +23,5 @@ end
 def groceries.values.flatten.min
 #=> "broccoli"
 lib/min
+#min
+end
